@@ -1,0 +1,20 @@
+﻿.cke_combo_text{
+    color:black;
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+    font-size: 11px;
+    text-shadow:none;
+}
+
+
+.cke_top {
+    MARGIN-BOTTOM: 8px;
+    BACKGROUND-COLOR: #e8ebf2;
+    border: 1px solid rgb(187, 187, 187);
+    background-color: rgb(239, 243, 247);
+    background-image:none !important;
+    border-left:0px !important;
+    border-top:0px !important;
+    border-right:0px !important;
+    border-left:1px !important;
+}
+

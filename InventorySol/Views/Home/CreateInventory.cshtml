@@ -1,0 +1,73 @@
+﻿
+<div class="container">
+    <div id="pnlInventory">
+        <h3 style="font-weight:bold">Create Inventory</h3>
+        <div class="table-responsive">
+            <table class="table" >
+                <tbody>
+                    <tr>
+                        <td>
+                            <label id="lblname">*Name</label>
+                        </td>
+                        <td style="padding-right:30em">
+                            <input type="text" id="txtname" placeholder="Inventory Name" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label id="lbldescription">Description</label>
+                        </td>
+                        <td style="padding-right:30em">
+                            <textarea id="txtdescription" style="width:180px"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label id="lblprice">*Price</label>
+                        </td>
+                        <td style="padding-right:30em">
+                            <input type="text" id="txtprice" placeholder="Enter Price" />
+                        </td>
+                    </tr>
+                    <tr>
+                    <tr>
+                        <td style="padding:5px"><input type="file" id="Files" name="Files" multiple style="float: left;" /></td>
+                        <td style="padding:5px">
+                            <input id="UploadBtn" value="Upload" name="Upload" type="button" style="margin-left: 5px; float: left;" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="button" id="btnSubmit" value="Save" style="margin-left: 5px; float: left;" />
+                        </td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <table id="grid"></table>
+    <div id="pager"></div>
+</div>
+
+@section scripts {
+
+    <script src="~/Scripts/jquery.jqGrid.min.js"></script>
+    <script src="~/Scripts/grid.locale-en.js"></script>
+    <script src="~/Scripts/Inventory.js"></script>
+    <script src="~/Scripts/CommonEvents.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            var obj = {};
+            $.App = {};
+            $.App.Inventory = {};
+            obj.LoadInvenURL = '@Url.Action("LoadInventory", "Home")';
+            obj.DeleteInvenURL = '@Url.Action("DeleteInventory", "Home")';
+            $.App.Inventory = new IM.Inventory(obj);
+
+        });
+    </script>
+}
+
