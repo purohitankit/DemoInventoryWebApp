@@ -1,0 +1,6 @@
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\InventoryIDL\bin\Debug\InventoryIDL.dll
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\InventoryIDL\bin\Debug\InventoryIDL.pdb
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\InventoryIDL\obj\Debug\InventoryIDL.csproj.CoreCompileInputs.cache
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\InventoryIDL\obj\Debug\InventoryIDL.dll
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\InventoryIDL\obj\Debug\InventoryIDL.pdb
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\InventoryIDL\obj\Debug\InventoryIDL.csprojAssemblyReference.cache
