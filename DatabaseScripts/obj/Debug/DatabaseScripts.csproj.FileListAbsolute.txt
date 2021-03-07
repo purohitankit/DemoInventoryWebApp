@@ -1,0 +1,6 @@
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\DatabaseScripts\bin\Debug\DatabaseScripts.dll
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\DatabaseScripts\bin\Debug\DatabaseScripts.pdb
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\DatabaseScripts\obj\Debug\DatabaseScripts.csprojAssemblyReference.cache
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\DatabaseScripts\obj\Debug\DatabaseScripts.csproj.CoreCompileInputs.cache
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\DatabaseScripts\obj\Debug\DatabaseScripts.dll
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\DatabaseScripts\obj\Debug\DatabaseScripts.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\CommonDLLs\bin\Debug\CommonDLLs.dll
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\CommonDLLs\bin\Debug\CommonDLLs.pdb
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\CommonDLLs\obj\Debug\CommonDLLs.csproj.CoreCompileInputs.cache
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\CommonDLLs\obj\Debug\CommonDLLs.dll
+C:\Users\Ankit\source\InventoryManagement\InventoryManagement\CommonDLLs\obj\Debug\CommonDLLs.pdb
