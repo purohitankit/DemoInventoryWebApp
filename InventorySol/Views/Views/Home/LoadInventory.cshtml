@@ -1,0 +1,44 @@
+﻿@model InventoryAPI.Models.Inventory
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>LoadInventory</title>
+</head>
+<body>
+    <div> 
+        <table>
+            <tr>
+                <td>
+                    Name
+                </td>
+                <td>
+                    @Model.Name
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Description
+                </td>
+                <td>
+                    @Model.Description
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Price
+                </td>
+                <td>
+                    @Model.Price
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
