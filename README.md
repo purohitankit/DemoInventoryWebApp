@@ -4,3 +4,4 @@
 3)Right Click On Inventory Management Solution And Select "Set up as a start project" from list.
 4)then press F5
 5)Right Click On "InventoryAPI" Folder then select "Start New Instance- > Debug" from list
+6)Perform TheOperation
